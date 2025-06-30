@@ -10,7 +10,9 @@ This project was made for Google Hack2Skill Hackathon. It was an amazing experie
 The results were as follows
 
 attendance was not marked with an image
-<img src="https://github.com/user-attachments/assets/11488422-33e0-4343-b6d4-1dbfecf53205" width="200" height="200"/>
-
+<br>
+<img src="https://github.com/user-attachments/assets/11488422-33e0-4343-b6d4-1dbfecf53205" width="300" height="200"/>
+<br>
 attendance was marked with real face
-<img src="https://github.com/user-attachments/assets/b7648a11-6b2f-4774-85a2-6bc2d72da4a5" width="200" height="200"/>
+<br>
+<img src="https://github.com/user-attachments/assets/b7648a11-6b2f-4774-85a2-6bc2d72da4a5" width="300" height="200"/>
