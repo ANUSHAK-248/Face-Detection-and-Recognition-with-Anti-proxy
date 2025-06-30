@@ -5,6 +5,8 @@ Database     - Firebase
 
 This project was made for Google Hack2Skill Hackathon. It was an amazing experience learning and building it.
 ![project submission badge](https://github.com/user-attachments/assets/f4622e56-44f4-4247-80e3-868c99ff2f62)
+<img src="https://github.com/user-attachments/assets/f4622e56-44f4-4247-80e3-868c99ff2f62" width="100" height="100"/>
+
 
 The results were as follows
 
